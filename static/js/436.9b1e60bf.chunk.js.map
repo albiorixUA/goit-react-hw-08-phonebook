@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/436.9b1e60bf.chunk.js","mappings":"wMAEe,SAASA,IACtB,OAAO","sources":["views/LoginPage.jsx"],"sourcesContent":["import React from 'react';\n\nexport default function LoginPage() {\n  return <div> Hi</div>;\n}\n"],"names":["LoginPage"],"sourceRoot":""}
